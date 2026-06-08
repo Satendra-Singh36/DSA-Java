@@ -1,1 +1,1 @@
-# DSA-Java
+# Java DSA Journey
